@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SCOR"]
+	path = SCOR
+	url = https://github.com/synx21/scor
+	shallow = true
+	registered = true
